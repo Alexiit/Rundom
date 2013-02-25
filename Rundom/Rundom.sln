@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rundom", "Rundom\Rundom.vcxproj", "{188D1551-BCA4-4E33-85A1-5858BCD2E386}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "yam2d", "..\..\..\..\Desktop\yam2d\engine\yam2d.vcxproj", "{48CDA762-FEA3-4FF9-3D05-B05D6038CAD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{188D1551-BCA4-4E33-85A1-5858BCD2E386}.Debug|Win32.ActiveCfg = Debug|Win32
+		{188D1551-BCA4-4E33-85A1-5858BCD2E386}.Debug|Win32.Build.0 = Debug|Win32
+		{188D1551-BCA4-4E33-85A1-5858BCD2E386}.Release|Win32.ActiveCfg = Release|Win32
+		{188D1551-BCA4-4E33-85A1-5858BCD2E386}.Release|Win32.Build.0 = Release|Win32
+		{48CDA762-FEA3-4FF9-3D05-B05D6038CAD6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{48CDA762-FEA3-4FF9-3D05-B05D6038CAD6}.Debug|Win32.Build.0 = Debug|Win32
+		{48CDA762-FEA3-4FF9-3D05-B05D6038CAD6}.Release|Win32.ActiveCfg = Release|Win32
+		{48CDA762-FEA3-4FF9-3D05-B05D6038CAD6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

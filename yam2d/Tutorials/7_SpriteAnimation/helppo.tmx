@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="30" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tiles-forest" tilewidth="32" tileheight="32">
+  <image source="tiles-forest.png" width="512" height="288"/>
+ </tileset>
+ <tileset firstgid="145" name="cloudsbackground" tilewidth="32" tileheight="32">
+  <image source="cloudsbackground.png" width="640" height="480"/>
+ </tileset>
+ <layer name="background" width="100" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt2WmQiHUcwPElhHRJhdKlUqKQdIpudClSidypRBdJ6aCTTve677WOXax17ZIj5CydKCVHkXQoOnTo804vYmZ7mjGj38zzmefV853//H7vnn9qSkpKagghHKD67cX+Ptf/1d72EXtKrsc/6EkvetOHvn+ba38GMJBBsY99zjUvcxzMkH/5zVCGMZwRjGRUgjNEb08vjTGkM5ZxjGcCGWQykUlMJospZDOVaUxnBqOjl7iXQy6zmM0bzGEu85jPmyxgIYt4i8UsYSnLWM7M6CXuvc07rORd3uN9PuBDPmIVq1nDx3zCWj7lM9bxOSuil7i3gY1s4gu+ZDNb+IqtfM02vuFbvuN7tvMDP7KD9dFL3PuJn/mFX9nFb/zOH/zJblLyecjPQRSgIIU4mMLsjF7iXlHvQyjGoRzG4RzBkRTnKEpwNMdwLCUpRWmO43iK5Ite0t4JnMhJnMwplOVUTuN0ynEGZ1Kes6hARc7mHCpRJnqJe1U4l6qcRzXO5wIu5CIu5hKqcyk1qMllXM4VXEnl6CXuXc011KI2dbiW67ieG7iRutzEzdSjPrfQgFu5jauil7jXkDtoRGPupAlNaUZzWtCSVtxFa+7mHu6lDfdxe/QS99pxPw/wIA/xMO3pwCN05FE68RiP05kneJKneJq20Uvc68ozPMtzPM8LvEg3uvMSL/MKr/Iar9ODnvSiN12il7jXl36k0p8BDGQQgxnCUIYxnBGMZBSjSWMM6fSJXuLeOMYzgQwymcgkJpPFFLKZyjSmM4OZ5JDLLMZGL3EvL//083oP9V/Y3/cYIYQQQgghhHCg+gv2tIrV
+  </data>
+ </layer>
+ <layer name="maa" width="100" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztw0ENAAAIBCA7GMEI9u9mC3cP2KgCAAAAAAAAANqoY9RVVVV9errXtHk=
+  </data>
+ </layer>
+ <layer name="GameObjects" width="100" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20MH6AAAAAAAAAAAAAAAOBvLuAAAQ==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="23" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tiles-forest" tilewidth="32" tileheight="32">
+  <image source="tiles-forest.png" width="512" height="288"/>
+ </tileset>
+ <tileset firstgid="145" name="cloudsbackground" tilewidth="32" tileheight="32">
+  <image source="cloudsbackground.png" width="640" height="480"/>
+ </tileset>
+ <layer name="backgrounds" width="40" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20IX6AAAADgNw5gAAE=
+  </data>
+ </layer>
+ <layer name="ground" width="40" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20IX6AAAADgNw5gAAE=
+  </data>
+ </layer>
+ <layer name="GameObjects" width="40" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20IX6AAAADgNw5gAAE=
+  </data>
+ </layer>
+</map>
